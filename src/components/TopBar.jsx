@@ -70,7 +70,7 @@ function TopBar({ todo, setTodo, completed, setCompleted }) {
       </div>
       <div className="d-flex justify-content-between align-items-center p-5">
         <div>
-          <h6 className="fw-bold content">My Todo's</h6>
+          <h6 className="fw-bold content">My Todos</h6>
         </div>
         <div>
           <h4 className="fw-bold">
